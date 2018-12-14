@@ -9,4 +9,5 @@
 
 ## Launch
 `source /venv/bin/activate` 
+
 `PYHTON_ENV=development python src/main.py`
